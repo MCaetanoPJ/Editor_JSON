@@ -1,0 +1,8 @@
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\bin\Debug\Editor_JSON.exe.config
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\bin\Debug\Editor_JSON.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\bin\Debug\Editor_JSON.pdb
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\obj\Debug\Editor_JSON.csprojResolveAssemblyReference.cache
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\obj\Debug\Editor_JSON.MainForm.resources
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\obj\Debug\Editor_JSON.csproj.GenerateResource.Cache
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\obj\Debug\Editor_JSON.exe
+C:\Users\Omnia\Documents\SharpDevelop Projects\Editor_JSON\Editor_JSON\obj\Debug\Editor_JSON.pdb
